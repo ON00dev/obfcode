@@ -1,1 +1,1 @@
-pyminifier3==2.3.3S
+pyarmor==8.5.10
