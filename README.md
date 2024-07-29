@@ -39,7 +39,7 @@ Click the "Obfuscate" button to start the obfuscation process. A new window will
 --------------------------------------------------------------------------------------------------------------------------
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [LICENSE](LICENSE).
 
 --------------------------------------------------------------------------------------------------------------------------
 Feel free to adjust the description to better suit your repository's needs.
