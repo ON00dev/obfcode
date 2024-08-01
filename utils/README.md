@@ -1,7 +1,7 @@
 # Install the following tools
 
-## Iwwerc
-Click [here](https://github.com/ON00dev/iwwerc) to install iwwerc.exe
+### Iwwerc
+[iwwerc](https://github.com/ON00dev/iwwerc)
 
-## Confuser.CLI
-Click [here](https://github.com/ON00dev/Confuser.CLI) to install Confuser.CLI.exe
+### Confuser.CLI
+[Confuser.CLI](https://github.com/ON00dev/Confuser.CLI)
