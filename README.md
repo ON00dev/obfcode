@@ -20,15 +20,28 @@ OBFCODE is a graphical user interface (GUI) tool for obfuscating source code wri
 ## Installation
 
 Clone the repository:
-- `git clone https://github.com/ON00dev/obfcode.git`
-- `cd obfcode`
-- `pip install -r requirements.txt`
+
+1. ```bash
+   git clone https://github.com/ON00dev/obfcode.git
+   ```
+   
+3. ```bash
+   cd obfcode
+   ```
+
+5. ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Usage
 
 Run the script:
-- `cd src`
-- `python obfcode.py`
+1. ```bash
+   cd src
+   ```
+2. ```bash
+   python obfcode.py
+   ```
 
 Select the file to be obfuscated.
 Choose the save directory where the obfuscated file will be stored.
