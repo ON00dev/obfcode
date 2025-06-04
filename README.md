@@ -13,8 +13,8 @@ OBFCODE is a graphical user interface (GUI) tool for obfuscating source code wri
 
 - Python 3.10+
 - pip
-- iwwerc
-- Confuser.CLI.exe
+- iwwerc [Download](https://github.com/ON00dev/obfcode/blob/main/utils%2FREADME.md)
+- Confuser.CLI.exe [Download](https://github.com/ON00dev/obfcode/blob/main/utils%2FREADME.md)
 - proguard
   
 ## Installation
